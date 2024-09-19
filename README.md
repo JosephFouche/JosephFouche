@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/eduardo-mart%C3%ADnez-820960209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ eduardo-martínez-820960209" height="30" width="40" /></a>
 <a href="https://instagram.com/edu_martinez.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edu_martinez.py" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eduardo martínez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eduardo martínez" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/edex357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eduardo martínez" height="30" width="40" /></a>
 
 </p>
 
