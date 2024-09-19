@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/eduardo-martínez-820960209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ eduardo-martínez-820960209" height="30" width="40" /></a>
+<a href="linkedin.com/in/eduardo-martínez-
+820960209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ eduardo-martínez-820960209" height="30" width="40" /></a>
 <a href="https://instagram.com/edu_martinez.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edu_martinez.py" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eduardo martínez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eduardo martínez" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@edex357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@edex357" height="30" width="40" /></a>
