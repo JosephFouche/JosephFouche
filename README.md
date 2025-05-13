@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Martínez</h1>
 <h3 align="center">Interested in cibersecurity from Paraguay</h3>
 
-- 🔭 I’m currently working on [Linux fundamentals](https://academy.hackthebox.com/module/details/18)
+- 🔭 I’m currently working on [Pentest in a Nutshell](https://academy.hackthebox.com/module/details/296)
 
 - 🌱 I’m currently learning **Java, Mysql, Kali Linux**
 
